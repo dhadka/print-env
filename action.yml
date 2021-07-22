@@ -1,0 +1,6 @@
+name: 'Print Env'
+description: 'Print environment variables as seen by this TypeScript / JavaScript action'
+author: 'dhadka'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
